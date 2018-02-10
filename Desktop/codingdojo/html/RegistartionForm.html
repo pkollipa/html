@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Coding Dojo Registration Form</title>
+  </head>
+  <body>
+
+  <h1>My Registration Form </h1>
+
+  <form action="process.php" method="post">
+
+  <p>Please Register</p>
+
+  <label for="first_name">First Name:</label>
+  <input type="text" id="first_name" name="first_name">
+  <br />
+  <label for="last_name">Last Name:</label>
+  <input type="text" id="last_name" name="last_name">
+  <br />
+
+  <label for="email">Email:</label>
+  <input type="text" id="email" name="email">
+  <br />
+
+  <label for="password">Password:</label>
+  <input type="password" id="password" name="password">
+  <br />
+
+
+  <label for="pw_confirm">Password Confirmation:</label>
+  <input type="password" id="pw_confirm" name="password_confirmation">
+  <br />
+
+  <p>Select your gender:</p>
+  <label for="male">Male</label>
+  <input type="radio" id="male" name="gender" value="male">
+
+  <label for="female">Female</label>
+  <input type="radio" id="female" name="gender" value="female">
+
+  <p>Say a few words about yourself:</p>
+  <textarea name="description"></textarea>
+
+<p>Favorite language</p>
+  <select name="language">
+      <option value="Java">Java</option>
+      <option value=".Net">.Net</option>
+      <option value="Phyton">Phyton</option>
+      <option value="Ruby">Ruby</option>
+      <option value="Mean">Mean</option>
+  </select>
+  <br />
+  <br />
+
+
+ <input type="submit" value="Click here to register">
+</form>
+  </body>
+</html>
