@@ -3,3 +3,12 @@
 Learn CSS 
 
 https://www.youtube.com/watch?v=0afZj1G0BIE
+
+learn about css reset properties 
+
+https://www.w3schools.com/cssref/css_selectors.asp
+css(optional: read only when free)
+https://www.webdesignerdepot.com/2013/08/10-css-selectors-you-shouldnt-code-without/
+
+learn about css selectors that must be used 
+https://perishablepress.com/a-killer-collection-of-global-css-reset-styles/

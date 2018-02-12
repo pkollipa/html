@@ -1,0 +1,44 @@
+* {
+   margin: 0;
+   padding: 0;
+   font-family: helvetica, arial, sans-serif;
+   font-size: 16px;
+
+}
+#wrapper{
+  background-color: grey;
+
+}
+#header {
+  margin:10px;
+  padding: 20px;
+  text-align: center;
+
+}
+#1stfive img{
+  width: 5px;
+  height: 5px;
+  display: inline-block;
+
+}
+#2ndfive img{
+  width: 5px;
+  height: 5px;
+  display: inline-block;
+
+}
+#3rdfive img{
+  width: 5px;
+  height: 5px;
+  display: inline-block;
+
+}
+#4thfive img{
+  width: 5px;
+  height: 5px;
+  display: inline-block;
+
+}
+
+
+
